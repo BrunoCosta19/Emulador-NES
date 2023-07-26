@@ -2,7 +2,7 @@
 
 NES emulator running in web browser.
 
-A live demo is at [jpikl.github.io/cfxnes](https://jpikl.github.io/cfxnes).
+A live demo is at [https://github.com/BrunoCosta19/Emulador-NES](https://github.com/BrunoCosta19/Emulador-NES).
 
 ## Building and Running
 
