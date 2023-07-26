@@ -4,9 +4,9 @@
 
 VERSION=0.7.0
 RELEASE_FILE=cfxnes-$(VERSION).zip
-DEPLOY_BASE_URL=/cfxnes
-DEPLOY_DIR=../jpikl.github.io$(DEPLOY_BASE_URL)
-BACKUP_FILE=cfxnes.zip
+DEPLOY_BASE_URL=/Emulador-NES
+DEPLOY_DIR=../BrunoCosta19.github.io$(DEPLOY_BASE_URL)
+BACKUP_FILE=Emulador-NES.zip
 TEMP_DIR=temp
 
 ###############################################################################
