@@ -4,9 +4,7 @@ Emulador JavaScript NES e biblioteca de emulação.
 
 ![cfxnes logo](logo.png)
 
-:video_game: [Live demo](https://brunocosta19.github.io/Emulador-NES/#/)
-
-:information_source: [Como usar o cfxnes como uma biblioteca](lib)
+:video_game: [Live demo](https://brunocosta19.github.io/Emulador-NES/)
 
 ## Características
 
