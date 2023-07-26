@@ -1,54 +1,43 @@
 # cfxnes
 
-JavaScript NES emulator and emulation library.
+Emulador JavaScript NES e biblioteca de emulação.
 
 ![cfxnes logo](logo.png)
 
-:video_game: [Live demo](https://jpikl.github.io/cfxnes)
+:video_game: [Live demo](https://brunocosta19.github.io/Emulador-NES/)
 
-:information_source: [How to use cfxnes as a library](lib)
+:information_source: [Como usar o cfxnes como uma biblioteca](lib)
 
-## Features
+## Características
 
-- Supported ROM images: iNES, NES 2.0.
-- Supported mappers: NROM, MMC1, MMC3, UNROM, CNROM, AOROM, BNROM,
-  NINA-001, Color Dreams.
-- ROM images can be loaded from ZIP archive.
-- Persistence of battery-backed RAM (game saves) in IndexedDB.
-- Rendering using WebGL (with canvas API fallback).
-- Fullscreen mode.
-- Sound emulation using Web Audio.
-- Zapper emulation using mouse.
-- Gamepad support.
-- Customizable key bindings.
-- Plenty of configuration options.
+- Imagens ROM suportadas: iNES, NES 2.0.
+- Mapeadores suportados: NROM, MMC1, MMC3, UNROM, CNROM, AOROM, BNROM,
+  NINA-001, Sonhos coloridos.
+- As imagens ROM podem ser carregadas do arquivo ZIP.
+- Persistência de RAM alimentada por bateria (jogos salvos) no IndexedDB.
+- Renderização usando WebGL (com fallback de API de tela).
+- Modo tela cheia.
+- Emulação de som usando Web Audio.
+- Emulação de Zapper usando o mouse.
+- Suporte para gamepad.
+- Atalhos de teclas personalizáveis.
+- Muitas opções de configuração.
 
-## Supported Browsers
+## Navegadores suportados
 
-- Chrome (last 2 versions)
-- Firefox (last 2 versions)
-- Opera (last 2 versions)
-- IE 11, Edge >= 12
-- Safari >= 9
+- Chrome (últimas 2 versões)
+- Firefox (últimas 2 versões)
+- Opera (últimas 2 versões)
+- IE 11, Borda >= 12
+- Safári >= 9
 
-## Known Issues
+## Problemas conhecidos
 
-- No sound in IE due to missing Web Audio support.
-- Poor performance in IE, Edge.
-- Very poor performance on mobile devices.
-- Occasional graphical glitches in games using MMC3 mapper.
-- See [lista de jogos quebrados](broken-games.md).
+- Sem som no IE devido à falta de suporte de áudio da Web.
+- Baixo desempenho no IE, Edge.
+- Desempenho muito ruim em dispositivos móveis.
+- Falhas gráficas ocasionais em jogos usando o mapeador MMC3.
+- Veja [lista de jogos para baixar](https://www.romsgames.net/roms/nintendo/).
 
-## Project Structure
-
-- **[Core](core)** - [Readme](core/README.md)
-- **[Lib](lib)** - [Readme](lib/README.md)
-                 / [Changelog](lib/CHANGELOG.md)
-                 / [API](lib/API.md)
-                 / [Examples](lib/examples)
-- **[App](app)** - [Readme](app/README.md)
-                 / [Changelog](app/CHANGELOG.md)
-
-## License
 
 
