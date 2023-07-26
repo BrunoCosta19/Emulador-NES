@@ -8,14 +8,14 @@
     "emulator",
     "nes"
   ],
-  "author": "Jan Pikl <pikl.jan@gmail.com>",
-  "homepage": "https://github.com/jpikl/cfxnes",
+  "author": "Bruno Costa",
+  "homepage": "https://brunocosta19.github.io/Emulador-NES/",
   "bugs": {
-    "url": "https://github.com/jpikl/cfxnes/issues"
+    "url": "https://brunocosta19.github.io/Emulador-NES/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jpikl/cfxnes"
+    "url": "https://brunocosta19.github.io/Emulador-NES/"
   },
   "files": [
     "dist/",
